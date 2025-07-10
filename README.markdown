@@ -20,7 +20,7 @@ The dataset provided includes the following sheets:
 - **Patient Panel**: [Insert description or link to screenshot]
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/abbasiliad/automatic-system.git`
+1. Clone the repository: `https://github.com/abbasiibad/HealthCare-Analytics.git`
 2. Open the `.xlsx` file in Microsoft Power BI.
 3. Load the data into Power BI and explore the pre-built dashboards.
 

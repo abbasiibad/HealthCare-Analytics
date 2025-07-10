@@ -16,8 +16,8 @@ The dataset provided includes the following sheets:
 - `screenshots/`: Directory containing screenshots of the Hospital Panel and Patient Panel dashboards.
 
 ## Screenshots
-- **Hospital Panel**: [Insert description or link to screenshot]
-- **Patient Panel**: [Insert description or link to screenshot]
+- **Hospital Panel**: [https://github.com/abbasiibad/HealthCare-Analytics/blob/b0dd37130c255474a4809465d4a02e684fe76a41/hospital%20view.png]
+- **Patient Panel**: [https://github.com/abbasiibad/HealthCare-Analytics/blob/b0dd37130c255474a4809465d4a02e684fe76a41/Patient%20view.png]
 
 ## Installation
 1. Clone the repository: `https://github.com/abbasiibad/HealthCare-Analytics.git`
